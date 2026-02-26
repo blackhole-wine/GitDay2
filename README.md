@@ -1,4 +1,4 @@
-\# Git Day2
+# Git Day2
 
 
 
@@ -6,5 +6,6 @@ This is a basic chat application created for Git practice purposes, utilizing HT
 
 
 
-\## 
+## Libraries Used
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib) - MIT License
 
